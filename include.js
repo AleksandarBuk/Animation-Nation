@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Moody Box',
+    pageLink: './Art/Animation_Alex/animation.html',
+    imageLink: './Art/Animation_Alex/MoodyBox.gif',
+    author: 'Alex',
+    githubLink: 'https://github.com/AleksandarBuk'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
